@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/consultarDoacoes"
+            android:icon="@drawable/heart"
+            android:title="Consultar doações" />
+        <item
+            android:id="@+id/proximaDoacao"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="Próxima doação" />
+        <item
+            android:id="@+id/direitos"
+            android:icon="@drawable/ic_copyright_black_24dp"
+            android:title="Direitos de Dador" />
+        <item
+            android:id="@+id/certificado"
+            android:icon="@drawable/ic_assignment_ind_black_24dp"
+            android:title="Certificado Sou Dador" />
+        <item
+            android:id="@+id/terminarSessao"
+            android:icon="@drawable/ic_input_black_24dp"
+            android:title="Terminar sessão" />
+    </group>
+
+</menu>

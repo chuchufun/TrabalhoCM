@@ -8,5 +8,25 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="soudador">Sou Dador</string>
-    <string name="title_activity_inicio">Sou Dador</string>
+
+    <string name="til1"> <b> Decreto – Lei nº. 294/90, que regulamenta o Instituo Português do Sangue (IPS), Artigo 26º </b> </string>
+    <string name="dir1">1 – Aos Dadores Benévolos de Sangue é concedida autorização para se ausentarem das suas actividades, a fim de darem sangue, por solicitação de qualquer dos serviços da rede nacional de transfusão de sangue ou por iniciativa própria, salvo quando haja motivos urgentes e inadiáveis de serviço que naquele momento desaconselhem o seu afastamento do local de trabalho.</string>
+    <string name="dir2">2 – No caso previsto no número anterior, se não se comprovar a apresentação do trabalhador no local da colheita de sangue, a falta ao trabalho é considerada, nos termos gerais da lei, como injustificada, sem prejuízo do procedimento disciplinar a que haja lugar.</string>
+    <string name="dir3">3 – As ausências ao trabalho a que se refere o n.º 1 não determinam a perda de quaisquer direitos ou regalias e, designadamente, não são descontadas nas licenças.</string>
+    <string name="dir4">4 – Os Dadores de Sangue têm direito à isenção de taxas moderadoras do Serviços Nacional de Saúde, de acordo com a legislação em vigor.</string>
+    <string name="til2"> <b> Cartão Nacional de Dador de Sangue, Artigo 27º </b> </string>
+    <string name="dir21">1 – À situação de dador de sangue corresponde a atribuição de um cartão nacional de dador de sangue, a, a passar pelo serviço responsável pelo registo.</string>
+    <string name="dir22">2 – O modelo do cartão referido no número anterior será fixado por portaria do Ministério da Saúde.</string>
+    <string name="til3"> <b> Reconhecimento público, Artigo 28º </b> </string>
+    <string name="dir31">1 – São criados a medalha de dador de sangue, o diploma e o distintivo para galardoar a dedicação inerente à dádiva benévola de sangue.</string>
+    <string name="dir32">2 – A medalha de dador de sangue compreende os graus de medalha dourada, medalha prateada e medalha cobreada e será concedida pelo director do IPS nos seguintes casos:
+    a) A medalha dourada será concedida aos dadores que tenham completado 60 dádivas benévolas de sangue;
+    b) A medalha prateada aos dadores que tenham completado 40 dádivas;
+    c) A medalha cobreada aos dadores que hajam completado 20 dádivas.</string>
+    <string name="dir33">3 – O diploma de dador de sangue será concedido pelo director do IPS aos indivíduos que tenham completado 10 dádivas benévolas de sangue.</string>
+    <string name="dir34">4 – O distintivo de dador de sangue será concedido pelo director do IPS aos dadores benévolos a partir da quinta doação, bem como aos indivíduos que se tenham evidenciado por actividades que estimulem a doação de sangue.</string>
+    <string name="dir35">5 – Os modelos dos galardões referidos nos números anteriores serão afixados por portaria do Ministério da Saúde.</string>
+    <string name="til4"> <b> Seguro do Dador, Artigo 29º </b> </string>
+    <string name="dir41">1 – É criado o seguro do dador, para cobrir todas as situações anómalas resultantes da dádiva ou resultantes de acidentes que eventualmente os dadores sofram no trajecto para e do local da colheita quando para tal forem convocados.</string>
+    <string name="dir42">2 – O seguro referido no número anterior será regulamentado por portaria conjunta dos Ministros das Finanças e da Saúde.</string>
 </resources>

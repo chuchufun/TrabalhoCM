@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "741472031834",
+    "firebase_url": "https://fcmtest-d7984.firebaseio.com",
+    "project_id": "fcmtest-d7984",
+    "storage_bucket": "fcmtest-d7984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741472031834:android:2837be227080356b",
+        "android_client_info": {
+          "package_name": "com.example.chuch.trabalho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741472031834-tjn2b2r42mfalm1s81kkb49d1n3avl2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXS8x98XmbyIYJLSZu26HdRe8AtBgKWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
